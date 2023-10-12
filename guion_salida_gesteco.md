@@ -55,4 +55,5 @@ La siguiente lista muestra las paradas que realizaremos cronológicamente.
 - “tentenpiés” para picar entre comidas (galletas, frutos secos, fruta,...) (aconsejable)
    tapones para los oídos (aconsejable)
 - Muchas ganas de aprender, de participar y de convivir :)
+- 
 
