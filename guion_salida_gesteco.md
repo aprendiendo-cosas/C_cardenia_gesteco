@@ -52,7 +52,9 @@ Puedes hacer zoom en el mapa y acercarte a todas las paradas que realizaremos. T
 
  ## Descripción de las paradas a realizar
 
-Durante los tres días de la excursión recorreremos varios sitios con gran interés para cada una de las dos visiones descritas más arriba: características de distintos ecosistemas y procedimientos de gestión. 
+Durante los tres días de la excursión recorreremos varios sitios con gran interés para cada una de las dos visiones descritas más arriba: características de distintos ecosistemas y procedimientos de gestión.
+
+En cada una de las paradas os acompañarán tres profesores con una experiencia profesional casi tan larga como vuestras vidas. También nos acompañará el director del Parque de Cardeña y Montoro, así como agentes de medio ambiente y otros profesionales diferentes. Todos ellos tienen una gran experiencia en la gestión de recursos naturales y se conocen la zona con gran detalle. Remarcamos todo esto porque tendréis a vuestra disposición una enorme cantidad de conocimiento. Vuestro trabajo durante la salida es exprimir al máximo ese conocimiento y aprender todo lo que podáis. Preguntad (con respeto) todo lo que se os ocurra, hablad entre vosotros de las dudas que os surjan. Recordad que aprendemos haciendo preguntas y cometiendo errores. Si lo anterior no os motiva, os doy un argumento más materialista. La salida ha costado unos 3000€. Cada céntimo de este dinero sale de los impuestos que pagan vuestros padres (y vosotros). Haced que cada euro cuente..
 
 A continuación se describe el recorrido previsto para cada día:
 
