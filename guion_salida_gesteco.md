@@ -99,8 +99,11 @@ El autobús nos recogerá en Azuel sobre las 14:00. Desde allí iremos a Cardeñ
 ## Lista de cosas a traer
 
 Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de traer lo siguiente
-- Saco de dormir o ropa de cama.  
-- Esterilla o colchón inflable.
+- Aparejos para dormir. Haremos noche en una nave diáfana que nos ofrece gratuitamente el ayuntamiento de Cardeña. No hay camas, sino mucho suelo. Así que, necesitaremos lo siguiente:
+  - Saco de dormir o ropa de cama.  
+  - Esterilla o colchón inflable.
+  - Tapones de los oídos y una linterna son recomendables.
+
 - Botella para rellenar de agua.
 - Cuaderno y lápiz
 - Calzado de campo. Zapatillas de deporte o botas. Nada de chanclas (ni de zapatos con tacón...)
