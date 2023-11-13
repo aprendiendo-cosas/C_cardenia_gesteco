@@ -6,7 +6,7 @@
 > + **_Autores_**: Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios Rodríguez (gpalacios@uco.es) y Curro Bonet García (fjbonet@uco.es)
 > + **_Fechas_**: 2-4 de noviembre de 2023
 
-![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/main/imagenes/portada.jpeg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/main/imagenes/portada.jpg?raw=true)
 
 
 ## Objetivos docentes
@@ -65,7 +65,7 @@ A continuación se describe el recorrido previsto para cada día:
 + Salida del Hotel Eurostars Palace de Córdoba a las 8:30 de la mañana. [Aquí](https://maps.app.goo.gl/k5kzaPmGmnfi3kYTA) tienes la ubicación.
 + Desde el punto de salida nos dirigiremos al norte, en dirección a Sierra Morena. 
 + **Tratamientos selvícolas en la finca "El Águila"**: En esta ocasión estudiaremos el ecosistema pinar de repoblación. El director del Parque nos hablará del origen y dinámica de este tipo de ecosistema (¿o debemos considerarlo un antroposistema?). Dedicaremos un rato a estudiar las actuaciones forestales que se están realizando en esta zona para reducir la densidad del pinar y fomentar la regeneración de la vegetación original de la zona (eninar mediterráneo). Esta parada es de especial interés para el grupo 2 de la asignatura de Gestión de ecosistemas.
-+ **Medidas para promover la conservación del lince ibérico**: La primera parada nos llevará a un punto de la carretera N-420 en el que se han realizado actuaciones para reducir los atropellos de lince que eran muy frecuentes en esta zona. El director del Parque Natural Sierras de Cardeña y Montoro (Pedro Torres) nos hablará de cómo se han realizado estas actuaciones. Esta parada es muy importante para el grupo 3 de Gestión de ecosistemas porque en ella hablaremos de actuaciones que se toman para evitar la extinción de especies amenazadas. También es de interés para los estudiantes de ingeniería forestal que vayan a trabajar sobre el ecosistema "encinar termomediterráneo". [Aquí](https://maps.app.goo.gl/2f1h6R51WfansfoZ8) está el punto aproximado en el que pararemos. 
++ **Medidas para promover la conservación del lince ibérico**: La primera parada nos llevará a un punto de la carretera N-420 en el que se han realizado actuaciones para reducir los atropellos de lince que eran muy frecuentes en esta zona. El director del Parque Natural Sierras de Cardeña y Montoro (Pedro Torres) nos hablará de cómo se han realizado estas actuaciones. Esta parada es muy importante para el grupo 3 de Gestión de ecosistemas porque en ella hablaremos de actuaciones que se toman para evitar la extinción de especies amenazadas. También es de interés para los estudiantes de ingeniería forestal que vayan a trabajar sobre el ecosistema "encinar termomediterráneo". [Aquí](https://maps.app.goo.gl/2f1h6R51WfansfoZ8) está el punto aproximado en el que pararemos. *Al final no tuvimos tiempo de hacer esta parada*
 + **Restauración del ecosistema de la finca "El Yegüerizo"**: Terminaremos la mañana visitando una finca adquirida por la Junta de Andalucía en 2005. Se trata de una extensión relativamente llana de unas 50 Has de superficie. El ecosistema dominante en la zona es la dehesa. Aquí los estudiantes de ingeniería forestal caracterizarán este tipo de ecosistema. Además, Pedro Torres nos hablará de las medidas de restauración que se están llevando a cabo en la zona. Esta finca estaba en explotación ganadera antes de que la adquiriera la Junta de Andalucía. Solo había árboles adultos y muy poca vegetación herbácea y arbustiva. Las medidas adoptadas pretenden fomentar la regeneración de la vegetación y de otras especies clave como el conejo. Esta parada es relevante para los grupos 2 y 3 de Gestión de ecosistemas. Después de trabajar un rato en esta zona, comeremos en unas mesas que hay disponibles en la zona.
 + **Llegada a Cardeña**: Sobre las 17 horas llegaremos al pueblo de Cardeña. Allí dispondremos de tiempo para dejar el equipaje, asearnos y reflexionar sobre lo visto durante el día. Cenaremos en un restaurante del pueblo.
 
@@ -119,4 +119,9 @@ Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de 
   - Almuerzo del tercer día. Volveremos a Córdoba sobre las 15, así que igual no hace falta que traigas nada para ese día. 
 - Tentenpiés para picar entre comidas (galletas, frutos secos, fruta,...).
 - Muchas ganas de aprender, de participar y de convivir :). Ya lo he dicho antes, pero de esto ha que traer dos raciones.
+
+
+
+## Resultados
+Después de la excursión dedicamos un par de sesiones en clase para reflexionar sobre lo que habíamos aprendido. Distinguimos de aprendizajes "científico-técnicos" (relativos a la ciencia de la gestión de ecosistemas) y otros más "sociales" o humanos (fundamentalmente los relativos a las relaciones interprofesionales y a la relación ciencia-sociedad). En [esta] (https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/main/presentacion/presentación/reflexiones_post_cardenia.pptx/?raw=true) se incluyen las notas que usamos como guía para dicha reflexión. Y [aquí](https://ucordoba-my.sharepoint.com/:f:/g/personal/bv2bogaf_uco_es/EhcI-W_1TMVFtALyOqkJsL0Bv9P8aenA0RS2VlR-SRm_sg?e=9OxqRu) puedes ver las fotos que tomamos los profesores durante la salida. 
 
