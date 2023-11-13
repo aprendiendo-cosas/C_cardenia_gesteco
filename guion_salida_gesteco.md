@@ -6,7 +6,7 @@
 > + **_Autores_**: Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios Rodríguez (gpalacios@uco.es) y Curro Bonet García (fjbonet@uco.es)
 > + **_Fechas_**: 2-4 de noviembre de 2023
 
-![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/main/imagenes/portada.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2023_2024/imagenes/portada.jpg?raw=true)
 
 
 ## Objetivos docentes
@@ -39,7 +39,7 @@ Los estudiantes del grado de ingeniería forestal pondrán el foco en los distin
 
 ## Itinerario 
 
-Durante la salida visitaremos alguno de los puntos más interesantes del Parque Natural de la Sierra de Cardeña y Montoro. En [este](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/main/biblio/guia_cardenia_montoro.pdf/?raw=true) enlace puedes descargar una guía general sobre el mencionado espacio protegido.
+Durante la salida visitaremos alguno de los puntos más interesantes del Parque Natural de la Sierra de Cardeña y Montoro. En [este](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2023_2024/biblio/guia_cardenia_montoro.pdf/?raw=true) enlace puedes descargar una guía general sobre el mencionado espacio protegido.
 
 El siguiente mapa muestra los puntos clave del recorrido que realizaremos. Si haces click en el botón que aparece arriba a la izquierda (justo a la izquierda de la cabeza lampiña de Curro), verás la leyenda del mapa.
 
@@ -123,5 +123,5 @@ Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de 
 
 
 ## Resultados
-Después de la excursión dedicamos un par de sesiones en clase para reflexionar sobre lo que habíamos aprendido. Distinguimos de aprendizajes "científico-técnicos" (relativos a la ciencia de la gestión de ecosistemas) y otros más "sociales" o humanos (fundamentalmente los relativos a las relaciones interprofesionales y a la relación ciencia-sociedad). En [esta] (https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/main/presentacion/presentación/reflexiones_post_cardenia.pptx/?raw=true) se incluyen las notas que usamos como guía para dicha reflexión. Y [aquí](https://ucordoba-my.sharepoint.com/:f:/g/personal/bv2bogaf_uco_es/EhcI-W_1TMVFtALyOqkJsL0Bv9P8aenA0RS2VlR-SRm_sg?e=9OxqRu) puedes ver las fotos que tomamos los profesores durante la salida. 
+Después de la excursión dedicamos un par de sesiones en clase para reflexionar sobre lo que habíamos aprendido. Distinguimos de aprendizajes "científico-técnicos" (relativos a la ciencia de la gestión de ecosistemas) y otros más "sociales" o humanos (fundamentalmente los relativos a las relaciones interprofesionales y a la relación ciencia-sociedad). En [esta](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2023_2024/presentacion/reflexiones_post_cardenia.pptx/?raw=true) presesentación se incluyen las notas que usamos como guía para dicha reflexión. Y [aquí](https://ucordoba-my.sharepoint.com/:f:/g/personal/bv2bogaf_uco_es/EhcI-W_1TMVFtALyOqkJsL0Bv9P8aenA0RS2VlR-SRm_sg?e=9OxqRu) puedes ver las fotos que tomamos los profesores durante la salida.
 
