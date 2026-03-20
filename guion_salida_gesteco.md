@@ -1,12 +1,12 @@
 # Salida de campo al Parque Natural de la Sierra de Cardeña y Montoro
 
 
-> + **_Versión_**: 2023-2024
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA), Ecología y fauna forestal (Ingeniería forestal).
-> + **_Autores_**: Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios Rodríguez (gpalacios@uco.es) y Curro Bonet García (fjbonet@uco.es)
-> + **_Fechas_**: 2-4 de noviembre de 2023
+> + **_Autor_**: Curro Bonet García (fjbonet@uco.es)
+> + **_Fechas_**: 15-17 de abril de 2026
 
-![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2023_2024/imagenes/portada.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2025_2026/imagenes/portada.jpg?raw=true)
 
 
 ## Objetivos docentes
@@ -36,12 +36,11 @@ Esta actividad docente se organiza de manera coordinada entre la asignatura de *
 Los estudiantes del grado de ingeniería forestal pondrán el foco en los distintos tipos de ecositemas forestales que visitaremos. Los de ciencias ambientales, en cambio, se centrarán en analizar los distintos aspectos de la gestión de los recursos del espacio a visitar.
 
 
-
 ## Itinerario 
 
 Durante la salida visitaremos alguno de los puntos más interesantes del Parque Natural de la Sierra de Cardeña y Montoro. En [este](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2023_2024/biblio/guia_cardenia_montoro.pdf/?raw=true) enlace puedes descargar una guía general sobre el mencionado espacio protegido.
 
-El siguiente mapa muestra los puntos clave del recorrido que realizaremos. Si haces click en el botón que aparece arriba a la izquierda (justo a la izquierda de la cabeza lampiña de Curro), verás la leyenda del mapa.
+El siguiente mapa muestra los puntos clave del recorrido que realizaremos. Si haces click en el botón que aparece arriba a la izquierda, verás la leyenda del mapa.
 
 
 
@@ -60,10 +59,67 @@ A continuación se describe el recorrido previsto para cada día:
 
 
 
-### Jueves 2 de noviembre
+### Miércoles 15 de abril
 
 + Salida del Hotel Eurostars Palace de Córdoba a las 8:30 de la mañana. [Aquí](https://maps.app.goo.gl/k5kzaPmGmnfi3kYTA) tienes la ubicación.
 + Desde el punto de salida nos dirigiremos al norte, en dirección a Sierra Morena. 
++ El autobús nos dejará en la Aldea del Cerezo, cerca de Cardeña. Desde ahí realizaremos un itinerario a pie por la zona mejor conservada del Parque Natural de Cardeña y Montoro. Realizaremos el sendero denominado "vegueta del fresno". [Aquí](https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/vegueta-del-fresno/255035) podéis ver la descripción oficial de dicho sendero según la Junta de Andalucía. A lo largo del recorrido (6.5 Km ida y otros tantos de vuelta) observaremos los siguientes elementos:
+  + Atravesaremos densos bosques mediterráneos con abundancia de matorral. Estos bosques cuentan con la encina y el quejigo como especies arbóreas dominantes. Pero también veremos enebros, algunos pinos y multitud de especies de matorral. Los estudiantes de ingeniería forestal que se encarguen de este ecosistema tendrán que prestar especial atención a lo que veamos aquí.
+  + Llegaremos al cauce del río yeguas donde estudiaremos este tipo de ecosistema y también hablaremos de aspectos útiles para el grupo 6 de gestión de ecosistemas sobre gestión de recursos piscícolas. 
+  + Observaremos algunas poblaciones de especies exóticas e invasoras, lo que será de especial interés para el grupo 5 de la asignatura de gestión de ecosistemas. 
+  + A lo largo de todo el recorrido nos cruzaremos con multitud de linces y lobos (ah, y serpientes) que soy muy abundantes en la zona. No. Es broma. Es casi imposible que los veamos. Pero estar, parece que están. Al menos el lince. Lo que sí haremos es hablar de las poblaciones de estas dos emblemáticas especies. Esto será de especial interés para los estudiantes del grupo que esté trabajando en este tema.
+
+
+Durante la salida haremos algunas paradas regladas y os explicaré cosas. Pero será una actividad fundamentalmente abierta. Tendremos tiempo para disfrutar y también para aprender. Estaré abierto a que hablemos de cualquier cosa que os resulte interesante. Con un poco de suerte nos acompañará un rato el director del parque de Cardeña y Montoro: Pedro Torres.
+
+Esperamos llegar a Cardeña de vuelta en torno a las 18 horas. Por la tarde descansaremos un rato, cenaremos y y nos iremos a dormir como buenos chicos y chicas :)
+
+
++ METER SESIÓN TEÓRICA SOBRE ESCALAS DE GOBERNANZA
+
+
+
+### Jueves 16 de abril
+- Desayuno en Cardeña. 
+- 10:00-10:30 Puesta en común del avance con los retos. En teoría, fase I y Fase II
+- 10:30-11:00 Explicación sobre la fase III y fase IV
+- 11:00-11:30 Descanso
+- 12:00-13:00 Trabajo en fases III y IV
+- 13:00-14:30 Trabajo con el técnico del ayuntamiento. Preguntas sobre los retos. Relaciones del ayuntamiento con el Parque Natural.
+- 14:40-15:30 Almuerzo
+- 16:00-16:30 Paseo hasta el centro de interpretación del Parque Natural
+- 16:30-17:00 Puesta en común del trabajo realizado durante el día
+- 17:00-18:00 Trabajo en equipo sobre las presentaciones de ámbitos sectoriales de gestión
+- 18:00-20:00 Tiempo libre
+- 20:00-21:00 Actividad en el planetario de Cardeña
+- 21:00-22:00 Cena
+
+
+
+
+
+
+
+
+
+
+---
+Al igual que el día anterior, madrugaremos para estar desayunados a las 9 de la mañana. Andaremos hacia el pueblo de Azuel desde el núcleo urbano de Cardeña. Durante este recorrido (6.7 Km. 1.5 horas a buen ritmo) comentaremos algunas de las cosas vistas durante los días anteriores.
+
+En Azuel tendremos la oportunidad de hablar con los responsables del coto de caza del pueblo. En dicho coto se han tomado muchas medidas especialmente orientadas a aumentar las poblaciones de conejo para beneficiar al lince ibérico. Nos contarán en qué consisten dichas medidas y analizaremos los posibles conflictos que existen entre la conservación de esta especie y la caza. Esta actividad será especialmente útil para los estudiantes del grupo 4 de gestión de ecosistemas.
+
+[Este](https://www.rtve.es/play/videos/jara-y-sedal/ojos-del-lince/6433798/) vídeo del programa "Jara y sedal" describe alguna de las actuaciones que veremos *in situ*. 
+
+
+
+
+
+El autobús nos recogerá en Azuel sobre las 14:00. Desde allí iremos a Cardeña para recoger nuestro equipaje y luego volveremos directos a Córdoba.
+
+
+---
+
+
 + **Tratamientos selvícolas en la finca "El Águila"**: En esta ocasión estudiaremos el ecosistema pinar de repoblación. El director del Parque nos hablará del origen y dinámica de este tipo de ecosistema (¿o debemos considerarlo un antroposistema?). Dedicaremos un rato a estudiar las actuaciones forestales que se están realizando en esta zona para reducir la densidad del pinar y fomentar la regeneración de la vegetación original de la zona (eninar mediterráneo). Esta parada es de especial interés para el grupo 2 de la asignatura de Gestión de ecosistemas.
 + **Medidas para promover la conservación del lince ibérico**: La primera parada nos llevará a un punto de la carretera N-420 en el que se han realizado actuaciones para reducir los atropellos de lince que eran muy frecuentes en esta zona. El director del Parque Natural Sierras de Cardeña y Montoro (Pedro Torres) nos hablará de cómo se han realizado estas actuaciones. Esta parada es muy importante para el grupo 3 de Gestión de ecosistemas porque en ella hablaremos de actuaciones que se toman para evitar la extinción de especies amenazadas. También es de interés para los estudiantes de ingeniería forestal que vayan a trabajar sobre el ecosistema "encinar termomediterráneo". [Aquí](https://maps.app.goo.gl/2f1h6R51WfansfoZ8) está el punto aproximado en el que pararemos. *Al final no tuvimos tiempo de hacer esta parada*
 + **Restauración del ecosistema de la finca "El Yegüerizo"**: Terminaremos la mañana visitando una finca adquirida por la Junta de Andalucía en 2005. Se trata de una extensión relativamente llana de unas 50 Has de superficie. El ecosistema dominante en la zona es la dehesa. Aquí los estudiantes de ingeniería forestal caracterizarán este tipo de ecosistema. Además, Pedro Torres nos hablará de las medidas de restauración que se están llevando a cabo en la zona. Esta finca estaba en explotación ganadera antes de que la adquiriera la Junta de Andalucía. Solo había árboles adultos y muy poca vegetación herbácea y arbustiva. Las medidas adoptadas pretenden fomentar la regeneración de la vegetación y de otras especies clave como el conejo. Esta parada es relevante para los grupos 2 y 3 de Gestión de ecosistemas. Después de trabajar un rato en esta zona, comeremos en unas mesas que hay disponibles en la zona.
@@ -71,34 +127,8 @@ A continuación se describe el recorrido previsto para cada día:
 
 
 
-### Viernes 3 de noviembre
 
-La jornada empezará con un desayuno tempranero a las 7:30 de la mañana. Debemos de estar listos para salir a las 9 horas. 
-
-Dedicaremos esta jornada a recorrer a pie la zona mejor conservada del Parque Natural de Cardeña y Montoro. Realizaremos el sendero denominado "vegueta del fresno". [Aquí](https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/vegueta-del-fresno/255035) podéis ver la descripción oficial de dicho sendero según la Junta de Andalucía. A lo largo del recorrido (6.5 Km ida y otros tantos de vuelta) observaremos los siguientes elementos:
-
-+ Atravesaremos densos bosques mediterráneos con abundancia de matorral. Estos bosques cuentan con la encina y el quejigo como especies arbóreas dominantes. Pero también veremos enebros, algunos pinos y multitud de especies de matorral. Los estudiantes de ingeniería forestal que se encarguen de este ecosistema tendrán que prestar especial atención a lo que veamos aquí.
-+ Llegaremos al cauce del río yeguas donde estudiaremos este tipo de ecosistema y también hablaremos de aspectos útiles para el grupo 6 de gestión de ecosistemas sobre gestión de recursos piscícolas. 
-+ Observaremos algunas poblaciones de especies exóticas e invasoras, lo que será de especial interés para el grupo 5 de la asignatura de gestión de ecosistemas. 
-+ A lo largo de todo el recorrido nos cruzaremos con multitud de linces y lobos que soy muy abundantes en la zona. No. Es broma. Es casi imposible que los veamos. Pero estar, parece que están. Al menos el lince. Lo que sí haremos es hablar de las poblaciones de estas dos emblemáticas especies. Esto será de especial interés para los estudiantes del grupo 3 de gestión de ecosistemas.
-
-Esperamos llegar a Cardeña de vuelta en torno a las 18 horas. Por la tarde descansaremos un rato, cenaremos y, con un poco de suerte, disfrutaremos de una estupenda experiencia astronómica (es una sorpresa, no se lo digáis a nadie). 
-
-
-
-### Sábado 4 de noviembre
-
-Al igual que el día anterior, madrugaremos para estar desayunados a las 9 de la mañana. Andaremos hacia el pueblo de Azuel desde el núcleo urbano de Cardeña. Durante este recorrido (6.7 Km. 1.5 horas a buen ritmo) comentaremos algunas de las cosas vistas durante los días anteriores.
-
-En Azuel tendremos la oportunidad de hablar con los responsables del coto de caza del pueblo. En dicho coto se han tomado muchas medidas especialmente orientadas a aumentar las poblaciones de conejo para beneficiar al lince ibérico. Nos contarán en qué consisten dichas medidas y analizaremos los posibles conflictos que existen entre la conservación de esta especie y la caza. Esta actividad será especialmente útil para los estudiantes del grupo 4 de gestión de ecosistemas.
-
-[Este](https://www.rtve.es/play/videos/jara-y-sedal/ojos-del-lince/6433798/) vídeo del programa "Jara y sedal" describe alguna de las actuaciones que veremos *in situ*. 
-
-El autobús nos recogerá en Azuel sobre las 14:00. Desde allí iremos a Cardeña para recoger nuestro equipaje y luego volveremos directos a Córdoba.
-
-
-
-## Lista de cosas a traer
+## Lista de cosas a llevar
 
 Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de traer lo siguiente
 - Aparejos para dormir. Haremos noche en una nave diáfana que nos ofrece gratuitamente el ayuntamiento de Cardeña. No hay camas, sino mucho suelo. Así que, necesitaremos lo siguiente:
