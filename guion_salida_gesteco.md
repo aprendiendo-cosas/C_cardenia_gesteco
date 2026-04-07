@@ -10,17 +10,15 @@
 
 
 ## Objetivos docentes
-La finalidad última de este acto docente es doble. Por un lado veremos *in situ* elementos estructurales, composicionales y funcionales de algunos tipos de ecosistemas mediterráneos. Por otro observaremos la componente práctica del concepto de gestión de ecosistemas considerando alguna de sus mútiple fuentes de incertidumbre. Los objetivos más específicos son los siguientes y se agrupan en dos tipos:
+Esta acto docente tiene dos finalidades. Por un lado veremos *in situ* elementos estructurales, composicionales y funcionales de algunos tipos de ecosistemas mediterráneos. Por otro observaremos la componente práctica del concepto de gestión de ecosistemas considerando alguna de sus mútiple fuentes de incertidumbre. Los objetivos más específicos son los siguientes y se agrupan, como siempre, en dos tipos:
 + Disciplinares (tienen que ver con la ciencia de la gestión de los ecosistemas):
   + Ver en la realidad elementos estructurales, composicionales y funcionales de los ecosistemas.
-  + Reconocer las diferencias entre varios tipos de ecosistemas mediterráneos.
   + Conocer marcos conceptuales teóricos útiles para la gestión de ecosistemas.
   + Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
   + Experimentar de primera mano la complejidad de la naturaleza.
   + Experimentar en campo los retos de la gestión del medio natural.
   + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre (socio)ecología. 
   + Entender en "cabeza propia" la diferencia entre teoría y práctica.
-  
 + Instrumentales (relacionados con competencias transversales):
 
   + Mejorar las habilidades de trabajo en equipo.
@@ -31,9 +29,9 @@ La finalidad última de este acto docente es doble. Por un lado veremos *in situ
   + Desconectar un poco de la rutina del día a día...
   
 
-Esta actividad docente se organiza de manera coordinada entre la asignatura de *Ecología y fauna forestal* del grado de Ingeniería forestal y *Gestión de ecosistemas* del grado de Ciencias Ambientales. En ambos casos son titulaciones de la Universidad de Córdoba.
+En esta salida se incluyen actividades en las que estaremos solo los estudiantes de ciencias ambientales y otras en las que también participarán los compañeros de ingeniería forestal e ingeniería agrónoma. 
 
-Los estudiantes del grado de ingeniería forestal pondrán el foco en los distintos tipos de ecositemas forestales que visitaremos. Los de ciencias ambientales, en cambio, se centrarán en analizar los distintos aspectos de la gestión de los recursos del espacio a visitar.
+
 
 
 ## Itinerario 
@@ -44,8 +42,8 @@ El siguiente mapa muestra los puntos clave del recorrido que realizaremos. Si ha
 
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1h1ij9qFU-CFnyxUTUo-uHJkSsuPIFWc&ehbc=2E312F" width="640" height="580"></iframe>
-Puedes hacer zoom en el mapa y acercarte a todas las paradas que realizaremos. También puedes descargar el mapa [aquí](https://www.google.com/maps/d/u/1/edit?mid=1h1ij9qFU-CFnyxUTUo-uHJkSsuPIFWc&usp=sharing) para verlo en tu móvil. 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zXzErwn2kQl8EoYSkpfefCTW8-6SyQ0&ehbc=2E312F" width="640" height="580"></iframe>
+Puedes hacer zoom en el mapa y acercarte a todas las ubicaciones que visitaremos. También puedes descargar el mapa [aquí](https://www.google.com/maps/d/u/0/edit?mid=1zXzErwn2kQl8EoYSkpfefCTW8-6SyQ0&usp=sharing) para verlo en tu móvil. 
 
 
 
@@ -53,7 +51,7 @@ Puedes hacer zoom en el mapa y acercarte a todas las paradas que realizaremos. T
 
 Durante los tres días de la excursión recorreremos varios sitios con gran interés para cada una de las dos visiones descritas más arriba: características de distintos ecosistemas y procedimientos de gestión.
 
-En cada una de las paradas os acompañarán tres profesores con una experiencia profesional casi tan larga como vuestras vidas. También nos acompañará el director del Parque de Cardeña y Montoro, así como agentes de medio ambiente y otros profesionales diferentes. Todos ellos tienen una gran experiencia en la gestión de recursos naturales y se conocen la zona con gran detalle. Remarcamos todo esto porque tendréis a vuestra disposición una enorme cantidad de conocimiento. Vuestro trabajo durante la salida es exprimir al máximo ese conocimiento y aprender todo lo que podáis. Preguntad (con respeto) todo lo que se os ocurra, hablad entre vosotros de las dudas que os surjan. Recordad que aprendemos haciendo preguntas y cometiendo errores. Si lo anterior no os motiva, os doy un argumento más materialista. La salida ha costado unos 3000€. Cada céntimo de este dinero sale de los impuestos que pagan vuestros padres (y vosotros). Haced que cada euro cuente..
+En cada una de las paradas nos acompañarán profesionales con gran experiencia en la gestión de recursos naturales y ecosistemas. En concreto, contaremos con el director del Parque de Cardeña y Montoro, así como con agentes de medio ambiente y otros profesionales diferentes. Todos ellos tienen una gran experiencia en la gestión de recursos naturales y se conocen la zona con gran detalle. Remarcamos todo esto porque tendréis a vuestra disposición una enorme cantidad de conocimiento. Vuestro trabajo durante la salida es exprimir al máximo ese conocimiento y aprender todo lo que podáis. Preguntad (con respeto) todo lo que se os ocurra, hablad entre vosotros de las dudas que os surjan. Recordad que aprendemos haciendo preguntas y cometiendo errores. Si lo anterior no os motiva, os doy un argumento más materialista. La salida ha costado unos 3000€. Cada céntimo de este dinero sale de los impuestos que pagan vuestros padres (y vosotros). Haced que cada euro cuente...
 
 A continuación se describe el recorrido previsto para cada día:
 
@@ -69,13 +67,15 @@ A continuación se describe el recorrido previsto para cada día:
   + Observaremos algunas poblaciones de especies exóticas e invasoras, lo que será de especial interés para el grupo 5 de la asignatura de gestión de ecosistemas. 
   + A lo largo de todo el recorrido nos cruzaremos con multitud de linces y lobos (ah, y serpientes) que soy muy abundantes en la zona. No. Es broma. Es casi imposible que los veamos. Pero estar, parece que están. Al menos el lince. Lo que sí haremos es hablar de las poblaciones de estas dos emblemáticas especies. Esto será de especial interés para los estudiantes del grupo que esté trabajando en este tema.
 
+Durante la salida haremos algunas varias paradas y en ellas trataremos temas importantes de manera informal. Concretamente hablaremos sobre conflictos en el contexto de los retos socioecológicos que estamos trabajando y también daremos nociones sobre cómo "bailar con los problemas complejos". 
 
-Durante la salida haremos algunas paradas regladas y os explicaré cosas. Pero será una actividad fundamentalmente abierta. Tendremos tiempo para disfrutar y también para aprender. Estaré abierto a que hablemos de cualquier cosa que os resulte interesante. Con un poco de suerte nos acompañará un rato el director del parque de Cardeña y Montoro: Pedro Torres.
+También contaremos con la presencia del director-conservador del P.N Sierras de Cardeña y Montoro (Pedro Torres). Con él comentaremos algunos aspectos concretos de los retos en los que estamos trabajando. Así que sería bueno que fuérais pensando preguntas o temas a tratar con él. 
+
+También estaré más que encantado de tratar cualquier otro tema que se os ocurra. Esté relacionado con la asignatura o no. 
 
 Esperamos llegar a Cardeña de vuelta en torno a las 18 horas. Por la tarde descansaremos un rato, cenaremos y y nos iremos a dormir como buenos chicos y chicas :)
 
 
-+ METER SESIÓN TEÓRICA SOBRE ESCALAS DE GOBERNANZA
 
 
 
