@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet García (fjbonet@uco.es)
 > + **_Fechas_**: 15-17 de abril de 2026
 
-![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2025_2026/imagenes/portada.jpg?raw=true)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_cardenia_gesteco/2025_2026/imagenes/portada.jpg)
 
 
 
