@@ -9,6 +9,10 @@
 ![portada](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2025_2026/imagenes/portada.jpg?raw=true)
 
 
+
+[TOC]
+
+
 ## Objetivos docentes
 Esta acto docente tiene dos finalidades. Por un lado veremos *in situ* elementos estructurales, composicionales y funcionales de algunos tipos de ecosistemas mediterráneos. Por otro observaremos la componente práctica del concepto de gestión de ecosistemas considerando alguna de sus mútiple fuentes de incertidumbre. Los objetivos más específicos son los siguientes y se agrupan, como siempre, en dos tipos:
 + Disciplinares (tienen que ver con la ciencia de la gestión de los ecosistemas):
@@ -47,7 +51,7 @@ Puedes hacer zoom en el mapa y acercarte a todas las ubicaciones que visitaremos
 
 
 
- ## Descripción de las paradas a realizar
+ ## Descripción de las actividades a realizar
 
 Durante los tres días de la excursión recorreremos varios sitios con gran interés para cada una de las dos visiones descritas más arriba: características de distintos ecosistemas y procedimientos de gestión.
 
@@ -65,93 +69,82 @@ A continuación se describe el recorrido previsto para cada día:
   + Atravesaremos densos bosques mediterráneos con abundancia de matorral. Estos bosques cuentan con la encina y el quejigo como especies arbóreas dominantes. Pero también veremos enebros, algunos pinos y multitud de especies de matorral. Los estudiantes de ingeniería forestal que se encarguen de este ecosistema tendrán que prestar especial atención a lo que veamos aquí.
   + Llegaremos al cauce del río yeguas donde estudiaremos este tipo de ecosistema y también hablaremos de aspectos útiles para el grupo 6 de gestión de ecosistemas sobre gestión de recursos piscícolas. 
   + Observaremos algunas poblaciones de especies exóticas e invasoras, lo que será de especial interés para el grupo 5 de la asignatura de gestión de ecosistemas. 
-  + A lo largo de todo el recorrido nos cruzaremos con multitud de linces y lobos (ah, y serpientes) que soy muy abundantes en la zona. No. Es broma. Es casi imposible que los veamos. Pero estar, parece que están. Al menos el lince. Lo que sí haremos es hablar de las poblaciones de estas dos emblemáticas especies. Esto será de especial interés para los estudiantes del grupo que esté trabajando en este tema.
+  + A lo largo de todo el recorrido nos cruzaremos con multitud de linces y lobos (ah, y muchas serpientes) que soy muy abundantes en la zona. No. Es broma. Es casi imposible que los veamos. Pero estar, parece que están. Al menos el lince. Lo que sí haremos es hablar de las poblaciones de estas dos emblemáticas especies. Esto será de especial interés para los estudiantes del grupo que esté trabajando en este tema.
 
-Durante la salida haremos algunas varias paradas y en ellas trataremos temas importantes de manera informal. Concretamente hablaremos sobre conflictos en el contexto de los retos socioecológicos que estamos trabajando y también daremos nociones sobre cómo "bailar con los problemas complejos". 
+Durante la salida haremos varias paradas y en ellas trataremos temas importantes de manera informal. Concretamente hablaremos sobre conflictos en el contexto de los retos socioecológicos que estamos trabajando y también daremos nociones sobre cómo "bailar con los problemas complejos". Serán clases al aire libre sin presentación pero con estructura. Grabaré la charla y generaré material para facilitar el estudio de lo que veamos.
 
 También contaremos con la presencia del director-conservador del P.N Sierras de Cardeña y Montoro (Pedro Torres). Con él comentaremos algunos aspectos concretos de los retos en los que estamos trabajando. Así que sería bueno que fuérais pensando preguntas o temas a tratar con él. 
 
-También estaré más que encantado de tratar cualquier otro tema que se os ocurra. Esté relacionado con la asignatura o no. 
+Además, estaré más que encantado de tratar cualquier otro tema que se os ocurra. Esté relacionado con la asignatura o no. 
 
 Esperamos llegar a Cardeña de vuelta en torno a las 18 horas. Por la tarde descansaremos un rato, cenaremos y y nos iremos a dormir como buenos chicos y chicas :)
 
 
 
-
-
 ### Jueves 16 de abril
-- Desayuno en Cardeña. 
-- 10:00-10:30 Puesta en común del avance con los retos. En teoría, fase I y Fase II
-- 10:30-11:00 Explicación sobre la fase III y fase IV
-- 11:00-11:30 Descanso
-- 12:00-13:00 Trabajo en fases III y IV
-- 13:00-14:30 Trabajo con el técnico del ayuntamiento. Preguntas sobre los retos. Relaciones del ayuntamiento con el Parque Natural.
-- 14:40-15:30 Almuerzo
-- 16:00-16:30 Paseo hasta el centro de interpretación del Parque Natural
-- 16:30-17:00 Puesta en común del trabajo realizado durante el día
-- 17:00-18:00 Trabajo en equipo sobre las presentaciones de ámbitos sectoriales de gestión
-- 18:00-20:00 Tiempo libre
-- 20:00-21:00 Actividad en el planetario de Cardeña
-- 21:00-22:00 Cena
+
++ 08:30-09:00 Desayunaremos en [este](https://maps.app.goo.gl/bXzhiUVjXUdJ5G5u6) bar de Cardeña.
++ 09:00-09:20 Paseo hasta el centro de visitantes del P. N. de Cardeña.
++ 09:20-10:30 Sesión teórica sobre "gobernanza en la gestión de ecosistemas. La importancia de las escalas".
++ 10:30-12:00 Trabajo con el reto de gestión. Fases III y IV.
++ 12:00-13:00 Paseo hasta el Ayuntamiento de Cardeña y descanso
++ 13:00-14:30 Entrevista con el concejal de medio ambiente del Ayuntamiento de Cardeña
++ 14:30-16:00 Almuerzo en el mismo bar en el que desayunamos. Tiempo libre
++ 16:00-16:30 Paseo hasta el centro de visitantes del P. N. de Cardeña. 
++ 16:30-17:00 Reflexiones sobre la reunión con el concejal de medio ambiente.
++ 17:00-18:00 Trabajo con el reto de gestión. Fase VI.
++ 18:00-19:00 Trabajo con el reto de gestión. Fases VII y VIII.
++ 19:00-20:00 Tiempo libre.
++ 20:00-21:00 Actividad en el planetario de Cardeña.
++ 21:00-22:00 Cena en el mismo bar en el que almorzamos.
 
 
 
+### Viernes 17 de abril 
+
+En el último día de la salida recibiremos la visita de los compañeros de ingeniería forestal e ingeniería agrónoma. Con ellos realizaremos las siguientes actividades:
+
++ 08:30-09:30 Desayunaremos "donde siempre". Recogeremos todas nuestras cosas porque ya no volvemos a la zona en la que hemos dormido estos días.
++ 09:30-10:30 Conversaciones con el director del P.N. Sierra de Cardeña y Montoro sobre los retos que tenemos asignados.
++ 10:30-14:00 Visita a la finca El Yegüerizo, en la que desarrollaremos varias actividades. Se trata de una finca adquirida por la Junta de Andalucía en 2005. Tiene unas 50 Has de superficie. El ecosistema dominante en la zona es la dehesa. Pedro Torres nos hablará de las medidas de restauración que se están llevando a cabo en la zona. Esta finca estaba en explotación ganadera antes de que la adquiriera la Junta de Andalucía. Solo había árboles adultos y muy poca vegetación herbácea y arbustiva. Las medidas adoptadas pretenden fomentar la regeneración de la vegetación y de otras especies clave como el conejo. 
++ 14:00-16:00 Perol en el Centro de visitantes del Parque Natural
++ 17:00-18:00 Viaje de vuelta a Córdoba
 
 
 
-
-
-
-
----
-Al igual que el día anterior, madrugaremos para estar desayunados a las 9 de la mañana. Andaremos hacia el pueblo de Azuel desde el núcleo urbano de Cardeña. Durante este recorrido (6.7 Km. 1.5 horas a buen ritmo) comentaremos algunas de las cosas vistas durante los días anteriores.
-
-En Azuel tendremos la oportunidad de hablar con los responsables del coto de caza del pueblo. En dicho coto se han tomado muchas medidas especialmente orientadas a aumentar las poblaciones de conejo para beneficiar al lince ibérico. Nos contarán en qué consisten dichas medidas y analizaremos los posibles conflictos que existen entre la conservación de esta especie y la caza. Esta actividad será especialmente útil para los estudiantes del grupo 4 de gestión de ecosistemas.
-
-[Este](https://www.rtve.es/play/videos/jara-y-sedal/ojos-del-lince/6433798/) vídeo del programa "Jara y sedal" describe alguna de las actuaciones que veremos *in situ*. 
-
-
-
-
-
-El autobús nos recogerá en Azuel sobre las 14:00. Desde allí iremos a Cardeña para recoger nuestro equipaje y luego volveremos directos a Córdoba.
-
-
----
-
-
-+ **Tratamientos selvícolas en la finca "El Águila"**: En esta ocasión estudiaremos el ecosistema pinar de repoblación. El director del Parque nos hablará del origen y dinámica de este tipo de ecosistema (¿o debemos considerarlo un antroposistema?). Dedicaremos un rato a estudiar las actuaciones forestales que se están realizando en esta zona para reducir la densidad del pinar y fomentar la regeneración de la vegetación original de la zona (eninar mediterráneo). Esta parada es de especial interés para el grupo 2 de la asignatura de Gestión de ecosistemas.
-+ **Medidas para promover la conservación del lince ibérico**: La primera parada nos llevará a un punto de la carretera N-420 en el que se han realizado actuaciones para reducir los atropellos de lince que eran muy frecuentes en esta zona. El director del Parque Natural Sierras de Cardeña y Montoro (Pedro Torres) nos hablará de cómo se han realizado estas actuaciones. Esta parada es muy importante para el grupo 3 de Gestión de ecosistemas porque en ella hablaremos de actuaciones que se toman para evitar la extinción de especies amenazadas. También es de interés para los estudiantes de ingeniería forestal que vayan a trabajar sobre el ecosistema "encinar termomediterráneo". [Aquí](https://maps.app.goo.gl/2f1h6R51WfansfoZ8) está el punto aproximado en el que pararemos. *Al final no tuvimos tiempo de hacer esta parada*
-+ **Restauración del ecosistema de la finca "El Yegüerizo"**: Terminaremos la mañana visitando una finca adquirida por la Junta de Andalucía en 2005. Se trata de una extensión relativamente llana de unas 50 Has de superficie. El ecosistema dominante en la zona es la dehesa. Aquí los estudiantes de ingeniería forestal caracterizarán este tipo de ecosistema. Además, Pedro Torres nos hablará de las medidas de restauración que se están llevando a cabo en la zona. Esta finca estaba en explotación ganadera antes de que la adquiriera la Junta de Andalucía. Solo había árboles adultos y muy poca vegetación herbácea y arbustiva. Las medidas adoptadas pretenden fomentar la regeneración de la vegetación y de otras especies clave como el conejo. Esta parada es relevante para los grupos 2 y 3 de Gestión de ecosistemas. Después de trabajar un rato en esta zona, comeremos en unas mesas que hay disponibles en la zona.
-+ **Llegada a Cardeña**: Sobre las 17 horas llegaremos al pueblo de Cardeña. Allí dispondremos de tiempo para dejar el equipaje, asearnos y reflexionar sobre lo visto durante el día. Cenaremos en un restaurante del pueblo.
-
-
-
-
-## Lista de cosas a llevar
+## Material necesario
 
 Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de traer lo siguiente
-- Aparejos para dormir. Haremos noche en una nave diáfana que nos ofrece gratuitamente el ayuntamiento de Cardeña. No hay camas, sino mucho suelo. Así que, necesitaremos lo siguiente:
-  - Saco de dormir o ropa de cama.  
-  - Esterilla o colchón inflable.
-  - Tapones de los oídos y una linterna son recomendables.
-
-- Botella para rellenar de agua.
-- Cuaderno y lápiz
-- Calzado de campo. Zapatillas de deporte o botas, si puede ser impermeables. Si no, llevad una muda por si se mojan. Nada de chanclas (ni de zapatos con tacón...)
-- Ropa de abrigo. No es necesario abrigo para invierno extremo, pero sí algo para un otoño incipiente.
-- Chubasquero. Si puede ser mejor poncho para resguardarse bien de la lluvia. También  un paraguas que a la hora de tomar notas en campo es mejor.
-- Muda. Suena obvio, pero cuenta la leyenda que algunos estudiantes fueron al campo con solo una muda de ropa. Llovió y su profesor tuvo que prestarles ropa...
-- Toalla y demás utensilios de aseo personal.
-- Algún dispositivo para hacer fotos y grabar en video (valen móviles).
-- Comida. La UCO cubre todas las comidas excepto las siguientes:
-  - Desayuno y almuerzo del primer día. 
-  - Almuerzo del tercer día. Volveremos a Córdoba sobre las 15, así que igual no hace falta que traigas nada para ese día. 
-- Tentenpiés para picar entre comidas (galletas, frutos secos, fruta,...).
-- Muchas ganas de aprender, de participar y de convivir :). Ya lo he dicho antes, pero de esto ha que traer dos raciones.
++ Aparejos para dormir. Haremos noche en una nave diáfana que nos ofrece gratuitamente el ayuntamiento de Cardeña. No hay camas, sino mucho suelo. Así que, necesitaremos lo siguiente:
+  + Saco de dormir o ropa de cama.  
+  + Esterilla o colchón inflable.
+  + Tapones de los oídos y una linterna son recomendables.
++ Botella para rellenar de agua.
++ Cuaderno y lápiz.
++ También es recomendable traer portátil o algún dispositivo electrónico con el que trabajaremos en varias sesiones.
++ Calzado de campo. Zapatillas de deporte o botas, si puede ser impermeables. Si no, llevad una muda por si se mojan. Nada de chanclas (ni de zapatos con tacón...)
++ Ropa de abrigo. No es necesario abrigo para invierno extremo, pero sí algo para una primavera un poco inestable...
++ Chubasquero. Si puede ser mejor poncho para resguardarse bien de la lluvia. También  un paraguas que a la hora de tomar notas en campo es mejor.
++ Muda. Suena obvio, pero cuenta la leyenda que algunos estudiantes fueron al campo con solo una muda de ropa. Llovió y su profesor tuvo que prestarles ropa...
++ Toalla y demás utensilios de aseo personal.
++ Algún dispositivo para hacer fotos y grabar en video (valen móviles).
++ Comida. La UCO cubre todas las comidas excepto el desayuno y almuerzo del primer día. Recuerdo que el primer día estaremos de ruta por el campo, así que un bocata y algo fácil de llevar es lo más recomendable. También puedes llevar tentenpiés para picar entre comidas (galletas, frutos secos, fruta,...).
++ Muchas ganas de aprender, de participar y de convivir :). Ya lo he dicho antes, pero de esto hay que traer dos raciones.
 
 
 
-## Resultados
-Después de la excursión dedicamos un par de sesiones en clase para reflexionar sobre lo que habíamos aprendido. Distinguimos de aprendizajes "científico-técnicos" (relativos a la ciencia de la gestión de ecosistemas) y otros más "sociales" o humanos (fundamentalmente los relativos a las relaciones interprofesionales y a la relación ciencia-sociedad). En [esta](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2023_2024/presentacion/reflexiones_post_cardenia.pptx/?raw=true) presesentación se incluyen las notas que usamos como guía para dicha reflexión. Y [aquí](https://ucordoba-my.sharepoint.com/:f:/g/personal/bv2bogaf_uco_es/EhcI-W_1TMVFtALyOqkJsL0Bv9P8aenA0RS2VlR-SRm_sg?e=9OxqRu) puedes ver las fotos que tomamos los profesores durante la salida.
+[]()
 
+
+
+---
+
+[Aquí](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+
+
+Haz click [aquí](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+
+   <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
+
+  <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
