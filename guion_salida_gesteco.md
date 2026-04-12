@@ -55,29 +55,30 @@ Puedes hacer zoom en el mapa y acercarte a todas las ubicaciones que visitaremos
 
 Durante los tres días de la excursión recorreremos varios sitios con gran interés para cada una de las dos visiones descritas más arriba: características de distintos ecosistemas y procedimientos de gestión.
 
-En cada una de las paradas nos acompañarán profesionales con gran experiencia en la gestión de recursos naturales y ecosistemas. En concreto, contaremos con el director del Parque de Cardeña y Montoro, así como con agentes de medio ambiente y otros profesionales diferentes. Todos ellos tienen una gran experiencia en la gestión de recursos naturales y se conocen la zona con gran detalle. Remarcamos todo esto porque tendréis a vuestra disposición una enorme cantidad de conocimiento. Vuestro trabajo durante la salida es exprimir al máximo ese conocimiento y aprender todo lo que podáis. Preguntad (con respeto) todo lo que se os ocurra, hablad entre vosotros de las dudas que os surjan. Recordad que aprendemos haciendo preguntas y cometiendo errores. Si lo anterior no os motiva, os doy un argumento más materialista. La salida ha costado unos 3000€. Cada céntimo de este dinero sale de los impuestos que pagan vuestros padres (y vosotros). Haced que cada euro cuente...
+En cada una de las paradas nos acompañarán profesionales con gran experiencia en la gestión de recursos naturales y ecosistemas. En concreto, contaremos con el director del Parque de Cardeña y Montoro, así como con agentes de medio ambiente y otros profesionales diferentes. Todos ellos tienen una gran experiencia en la gestión de recursos naturales y se conocen la zona con gran detalle. Remarcamos todo esto porque tendréis a vuestra disposición una enorme cantidad de conocimiento. Vuestro trabajo durante la salida es exprimir al máximo ese conocimiento y aprender todo lo que podáis. Preguntad (con respeto) todo lo que se os ocurra, hablad entre vosotros de las dudas que os surjan. Recordad que aprendemos haciendo preguntas y cometiendo errores. Si lo anterior no os motiva, os doy un argumento más materialista. La salida ha costado unos 3000€. Cada céntimo de este dinero sale de los impuestos que pagan vuestros padres (y vosotros). Hagamos que cada euro cuente...
 
-A continuación se describe el recorrido previsto para cada día:
+A continuación se describen las actividades previstas para cada día:
 
 
 
 ### Miércoles 15 de abril
 
 + Salida del Hotel Eurostars Palace de Córdoba a las 8:30 de la mañana. [Aquí](https://maps.app.goo.gl/k5kzaPmGmnfi3kYTA) tienes la ubicación.
-+ Desde el punto de salida nos dirigiremos al norte, en dirección a Sierra Morena. 
+
++ Desde el punto de salida nos dirigiremos al noreste, en dirección a Sierra Morena. 
+
 + El autobús nos dejará en la Aldea del Cerezo, cerca de Cardeña. Desde ahí realizaremos un itinerario a pie por la zona mejor conservada del Parque Natural de Cardeña y Montoro. Realizaremos el sendero denominado "vegueta del fresno". [Aquí](https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/vegueta-del-fresno/255035) podéis ver la descripción oficial de dicho sendero según la Junta de Andalucía. A lo largo del recorrido (6.5 Km ida y otros tantos de vuelta) observaremos los siguientes elementos:
   + Atravesaremos densos bosques mediterráneos con abundancia de matorral. Estos bosques cuentan con la encina y el quejigo como especies arbóreas dominantes. Pero también veremos enebros, algunos pinos y multitud de especies de matorral. Los estudiantes de ingeniería forestal que se encarguen de este ecosistema tendrán que prestar especial atención a lo que veamos aquí.
-  + Llegaremos al cauce del río yeguas donde estudiaremos este tipo de ecosistema y también hablaremos de aspectos útiles para el grupo 6 de gestión de ecosistemas sobre gestión de recursos piscícolas. 
-  + Observaremos algunas poblaciones de especies exóticas e invasoras, lo que será de especial interés para el grupo 5 de la asignatura de gestión de ecosistemas. 
+  
+  + Llegaremos al cauce del río yeguas donde almorzaremos la comida que cada uno traiga de casa.
+  
   + A lo largo de todo el recorrido nos cruzaremos con multitud de linces y lobos (ah, y muchas serpientes) que soy muy abundantes en la zona. No. Es broma. Es casi imposible que los veamos. Pero estar, parece que están. Al menos el lince. Lo que sí haremos es hablar de las poblaciones de estas dos emblemáticas especies. Esto será de especial interés para los estudiantes del grupo que esté trabajando en este tema.
 
-Durante la salida haremos varias paradas y en ellas trataremos temas importantes de manera informal. Concretamente hablaremos sobre conflictos en el contexto de los retos socioecológicos que estamos trabajando y también daremos nociones sobre cómo "bailar con los problemas complejos". Serán clases al aire libre sin presentación pero con estructura. Grabaré la charla y generaré material para facilitar el estudio de lo que veamos.
+  + Durante la salida haremos varias paradas y en ellas trataremos temas importantes de manera informal. Concretamente hablaremos sobre conflictos en el contexto de los retos socioecológicos que estamos trabajando y también daremos nociones sobre cómo "bailar con los problemas complejos". Serán clases al aire libre sin presentación pero con estructura. Grabaré la charla y generaré material para facilitar el estudio de lo que veamos. También contaremos con la presencia del director-conservador del P.N Sierras de Cardeña y Montoro (Pedro Torres). Con él comentaremos algunos aspectos concretos de los retos en los que estamos trabajando. Así que sería bueno que fuérais pensando preguntas o temas a tratar con él. 
 
-También contaremos con la presencia del director-conservador del P.N Sierras de Cardeña y Montoro (Pedro Torres). Con él comentaremos algunos aspectos concretos de los retos en los que estamos trabajando. Así que sería bueno que fuérais pensando preguntas o temas a tratar con él. 
+  Además, estaré más que encantado de tratar cualquier otro tema que se os ocurra. Esté relacionado con la asignatura o no. 
 
-Además, estaré más que encantado de tratar cualquier otro tema que se os ocurra. Esté relacionado con la asignatura o no. 
-
-Esperamos llegar a Cardeña de vuelta en torno a las 18 horas. Por la tarde descansaremos un rato, cenaremos y y nos iremos a dormir como buenos chicos y chicas :)
++ Esperamos llegar a Cardeña de vuelta en torno a las 18 horas. Por la tarde descansaremos un rato, cenaremos y y nos iremos a dormir como buenos chicos y chicas :)
 
 
 
@@ -130,10 +131,11 @@ Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de 
 + Algún dispositivo para hacer fotos y grabar en video (valen móviles).
 + Comida. La UCO cubre todas las comidas excepto el desayuno y almuerzo del primer día. Recuerdo que el primer día estaremos de ruta por el campo, así que un bocata y algo fácil de llevar es lo más recomendable. También puedes llevar tentenpiés para picar entre comidas (galletas, frutos secos, fruta,...).
 + Muchas ganas de aprender, de participar y de convivir :). Ya lo he dicho antes, pero de esto hay que traer dos raciones.
++ Como el primer día haremos una excursión directamente, sugiero que llevéis una mochila pequeña en la que meter lo que necesitéis para esa primera jornada. 
 
 
 
-[]()
+
 
 
 
